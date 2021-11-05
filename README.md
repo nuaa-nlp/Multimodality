@@ -12,8 +12,8 @@ Papers, Datasets, Codes about Multimodality
 
 ## Datasets
 |ID|NAME|Description|Paper|Conference|
-|::|:--:|:---------:|:---:|:--------:|
-|1|LAION-40|Multi-Model|||
+|:---:|:---:|:---:|:---:|:---:|
+| 1 | [LAION-40](https://laion.ai/laion-400-open-dataset/) | Multi-Model | | |
 
 
 ## Codes
