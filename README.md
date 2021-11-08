@@ -2,6 +2,8 @@
 Papers, Datasets, Codes about Multimodality
 
 ## Paper
+1. **VLMO: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts**  *Wenhui Wang, Hangbo Bao, Li Dong, Furu Wei* [[pdf]](https://arxiv.org/pdf/2111.02358.pdf)
+
 ### Dialogue-System
 1. **Multi-Modal Open-Domain Dialogue**  *Kurt Shuster, Eric Michael Smith, Da Ju, Jason Weston* [[pdf]](https://arxiv.org/pdf/2010.01082.pdf)
 2. **Multimodal Dialogue Response Generation**  *Qingfeng Sun, Yujing Wang, Can Xu, Kai Zheng, Yaming Yang, Huang Hu, Fei Xu, Jessica Zhang, Xiubo Geng, Daxin Jiang*  [[pdf]](https://arxiv.org/pdf/2110.08515.pdf)
