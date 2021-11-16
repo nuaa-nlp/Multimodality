@@ -3,10 +3,12 @@ Papers, Datasets, Codes about Multimodality
 
 ## Paper
 1. **VLMO: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts**  *Wenhui Wang, Hangbo Bao, Li Dong, Furu Wei* [[pdf]](https://arxiv.org/pdf/2111.02358.pdf)
+2. **Masked Autoencoders Are Scalable Vision Learners**  *Kaiming He, Xinlei Chen, Saining Xie, Yanghao Li, Piotr Dollár, Ross Girshick* [[pdf]](https://arxiv.org/pdf/2111.06377.pdf)
 
 ### Dialogue-System
 1. **Multi-Modal Open-Domain Dialogue**  *Kurt Shuster, Eric Michael Smith, Da Ju, Jason Weston* [[pdf]](https://arxiv.org/pdf/2010.01082.pdf)
 2. **Multimodal Dialogue Response Generation**  *Qingfeng Sun, Yujing Wang, Can Xu, Kai Zheng, Yaming Yang, Huang Hu, Fei Xu, Jessica Zhang, Xiubo Geng, Daxin Jiang*  [[pdf]](https://arxiv.org/pdf/2110.08515.pdf)
+3. **Reason first, then respond:Modular Generation for Knowledge-infused Dialogue**  *Leonard Adolphs, Kurt Shuster, Jack Urbanek, Arthur Szlam, Jason Weston* [[pdf]](https://arxiv.org/pdf/2111.05204.pdf)
 
 ### Prompt
 1. **CPT: COLORFUL PROMPT TUNING FOR PRE-TRAINED VISION-LANGUAGE MODELS**  *Yuan Yao, Ao Zhang, Zhengyan Zhang, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun* [[pdf]](https://arxiv.org/pdf/2109.11797.pdf)
@@ -24,6 +26,7 @@ Papers, Datasets, Codes about Multimodality
 | 7 | [IAPR TC-12](https://www.imageclef.org/photodata) | Multi-Model Retrieval | [The IAPR Benchmark: A New Evaluation Resource for Visual Information Systems](https://www.cs.brandeis.edu/~marc/misc/proceedings/lrec-2006/workshops/W02/RealFinalOntoImage2006-2.pdf#page=13) | LREC |
 | 8 | [Conceptual Captions Dataset](https://github.com/google-research-datasets/conceptual-captions) | Multi-Model Retrieval | [Conceptual captions: A cleaned, hypernymed, image alt-text dataset for automatic image captioning](https://aclanthology.org/P18-1238.pdf) | |
 | 9 | [OpenViDial](https://github.com/ShannonAI/OpenViDial) | Multi-Model Dialogue| [OpenViDial: A Large-Scale, Open-Domain Dialogue Dataset with Visual Contexts](https://arxiv.org/pdf/2012.15015.pdf) | |
+
 
 
 ## Codes
