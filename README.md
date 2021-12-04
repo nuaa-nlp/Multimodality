@@ -15,7 +15,7 @@ Papers, Datasets, Codes about Multimodality
 1. **CPT: COLORFUL PROMPT TUNING FOR PRE-TRAINED VISION-LANGUAGE MODELS**  *Yuan Yao, Ao Zhang, Zhengyan Zhang, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun* [[pdf]](https://arxiv.org/pdf/2109.11797.pdf)
 
 ### TOP Conference
-1. **ACL**
+##### **ACL**
 |ID|Paper|Author|Conference|
 |-|-|-|-|
 |1|[Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering](https://arxiv.org/pdf/2107.02331.pdf)|Siddharth Karamcheti, Ranjay Krishna, Li Fei-Fei and Christopher Manning|ACL2021|
