@@ -22,7 +22,11 @@ Papers, Datasets, Codes about Multimodality
 |2|[TicketTalk: Toward human-level performance with end-to-end, transaction-based dialog systems](https://arxiv.org/pdf/2012.12458.pdf)|Bill Byrne, Karthik Krishnamoorthi, Saravanan Ganesh and Mihir Kale|ACL2021|
 |3|[PhotoChat: A Human-Human Dialogue Dataset With Photo Sharing Behavior For Joint Image-Text Modeling](https://arxiv.org/pdf/2108.01453.pdf)|Xiaoxue Zang, Lijuan Liu, Maria Wang, Yang Song, Hao Zhang and Jindong Chen|ACL2021|
 |4|[Maria: A Visual Experience Powered Conversational Agent](https://arxiv.org/pdf/2105.13073.pdf)|Zujie Liang, Huang Hu, Can Xu, Chongyang Tao, Xiubo Geng, Yining Chen, Fan Liang and Daxin Jiang|ACL2021|
-|5|-|-|-|
+|5|[MMGCN: Multimodal Fusion via Deep Graph Convolution Network for Emotion Recognition in Conversation](https://arxiv.org/pdf/2107.06779.pdf)|Jingwen Hu, Yuchen Liu, Jinming Zhao and Qin Jin|ACL2021|
+|6|-|-|-|
+|-|-|-|-|
+|-|-|-|-|
+|-|-|-|-|
 
 
 ## Datasets
