@@ -2,12 +2,11 @@
 Papers, Datasets, Codes about Multimodality
 
 ## Paper
-### Pre-Training
-1. **Masked Autoencoders Are Scalable Vision Learners**  *Kaiming He, Xinlei Chen, Saining Xie, Yanghao Li, Piotr Dollár, Ross Girshick* [[pdf]](https://arxiv.org/pdf/2111.06377.pdf)
 
 ### Vision-Language Pre-Training
 1. **VLMO: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts**  *Wenhui Wang, Hangbo Bao, Li Dong, Furu Wei* [[pdf]](https://arxiv.org/pdf/2111.02358.pdf)
 2. **Multi-Grained Vision Language Pre-Training: Aligning Texts with Visual Concepts**  *Yan Zeng, Xinsong Zhang, Hang Li* [[pdf]](https://arxiv.org/pdf/2111.08276.pdf)
+3. **Masked Autoencoders Are Scalable Vision Learners**  *Kaiming He, Xinlei Chen, Saining Xie, Yanghao Li, Piotr Dollár, Ross Girshick* [[pdf]](https://arxiv.org/pdf/2111.06377.pdf)
 
 ### Vision-and-Language Navigation
 1. 
