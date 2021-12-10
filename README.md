@@ -19,6 +19,7 @@ Papers, Datasets, Codes about Multimodality
 
 ### Prompt
 1. **CPT: COLORFUL PROMPT TUNING FOR PRE-TRAINED VISION-LANGUAGE MODELS**  *Yuan Yao, Ao Zhang, Zhengyan Zhang, Zhiyuan Liu, Tat-Seng Chua, Maosong Sun* [[pdf]](https://arxiv.org/pdf/2109.11797.pdf)
+2. **Multimodal Few-Shot Learning with Frozen Language Models**  *Maria Tsimpoukelli, Jacob Menick, Serkan Cabi, S. M. Ali Eslami, Oriol Vinyals, Felix Hill* [[pdf]](https://papers.nips.cc/paper/2021/file/01b7575c38dac42f3cfb7d500438b875-Paper.pdf)
 
 ### TOP Conference Paper About Multi-Modal Dialog
 ##### **ACL**
