@@ -29,11 +29,11 @@ Papers, Datasets, Codes about Multimodality
 |3|[PhotoChat: A Human-Human Dialogue Dataset With Photo Sharing Behavior For Joint Image-Text Modeling](https://arxiv.org/pdf/2108.01453.pdf)|Xiaoxue Zang, Lijuan Liu, Maria Wang, Yang Song, Hao Zhang and Jindong Chen|ACL2021|
 |4|[Maria: A Visual Experience Powered Conversational Agent](https://arxiv.org/pdf/2105.13073.pdf)|Zujie Liang, Huang Hu, Can Xu, Chongyang Tao, Xiubo Geng, Yining Chen, Fan Liang and Daxin Jiang|ACL2021|
 |5|[MMGCN: Multimodal Fusion via Deep Graph Convolution Network for Emotion Recognition in Conversation](https://arxiv.org/pdf/2107.06779.pdf)|Jingwen Hu, Yuchen Liu, Jinming Zhao and Qin Jin|ACL2021|
-|6|[How do people talk about images?A study on open-domain conversation on images](https://openreview.net/pdf?id=bRVvxrjkLM)|Anonymous ACL submission|ACL2021|
-|7|[Zero-Shot Visual Grounding of Referring Utterances in Dialogue](https://openreview.net/pdf?id=JcxhaCjSlGz)|Anonymous ACL submission|ACL2021|
-|8|[When did you become so smart, oh wise one?! Sarcasm Explanation in Multi-modal Multi-party Dialogues](https://openreview.net/pdf?id=eJUGH5CaCJK)|Anonymous ACL submission|ACL2021|
-|9|[Tackling Situated Multi-Modal Task-Oriented Dialogs with a Single Transformer Model](https://openreview.net/pdf?id=NajekV9uBas)|Anonymous ACL submission|ACL2021|
-|10|[Co-VQA : Answering by Interactive Sub Question Sequence](https://openreview.net/pdf?id=8s9M2_HIF-j)|Anonymous ACL submission|ACL2021|
+|6|[How do people talk about images?A study on open-domain conversation on images](https://openreview.net/pdf?id=bRVvxrjkLM)|Anonymous ACL submission|-|
+|7|[Zero-Shot Visual Grounding of Referring Utterances in Dialogue](https://openreview.net/pdf?id=JcxhaCjSlGz)|Anonymous ACL submission|-|
+|8|[When did you become so smart, oh wise one?! Sarcasm Explanation in Multi-modal Multi-party Dialogues](https://openreview.net/pdf?id=eJUGH5CaCJK)|Anonymous ACL submission|-|
+|9|[Tackling Situated Multi-Modal Task-Oriented Dialogs with a Single Transformer Model](https://openreview.net/pdf?id=NajekV9uBas)|Anonymous ACL submission|-|
+|10|[Co-VQA : Answering by Interactive Sub Question Sequence](https://openreview.net/pdf?id=8s9M2_HIF-j)|Anonymous ACL submission|-|
 
 
 ## Datasets
